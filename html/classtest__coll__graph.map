@@ -1,4 +1,4 @@
 <map id="test" name="test">
-<area shape="rect" id="node1" title=" " alt="" coords="44,80,91,107"/>
+<area shape="rect" id="node1" title="간단한 test용 class" alt="" coords="44,80,91,107"/>
 <area shape="rect" id="node2" title=" " alt="" coords="5,5,129,32"/>
 </map>
