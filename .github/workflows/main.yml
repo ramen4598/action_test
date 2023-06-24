@@ -24,5 +24,6 @@ jobs:
       - name: Commit and push if changes
         run: |
           git add .
-          git remote add origin git@github.com:ramen4598/action_test.git
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
           git commit -m "Generate Doxyfile" && git push
