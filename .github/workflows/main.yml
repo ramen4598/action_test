@@ -17,8 +17,12 @@ jobs:
 
       - name: Generate Doxyfile
         run: doxygen -g
+        
+      - name: list Doxyfile
+        run: pwd && ls -al
 
       - name: Commit and push if changes
         run: |
           git add .
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Generate Doxyfile" && git push)
+          git remote add origin git@github.com:ramen4598/action_test.git
+          git commit -m "Generate Doxyfile" && git push
