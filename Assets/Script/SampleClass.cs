@@ -1,5 +1,3 @@
-/// this is a d....
-/// '///' style comment can be used.
 public class SampleClass
 {
     /**
