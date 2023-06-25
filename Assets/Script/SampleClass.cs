@@ -1,5 +1,5 @@
-/// @breif this is a d....
-/// @detail '///' style comment can be used.
+/// this is a d....
+/// '///' style comment can be used.
 public class SampleClass
 {
     /**
