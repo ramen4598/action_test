@@ -1,6 +1,4 @@
-/**
-* @breif This is a Doxygen comment for the SampleClass.
-*/
+/// @breif this is a d....
 /// @detail '///' style comment can be used.
 public class SampleClass
 {
