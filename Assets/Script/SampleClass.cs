@@ -1,6 +1,7 @@
 /**
 * @breif This is a Doxygen comment for the SampleClass.
 */
+/// @detail 이런 형식의 주석도 사용할 수 있다.
 public class SampleClass
 {
     /**
