@@ -9,7 +9,7 @@ public class SampleClass
     }
 
     /**
-    * @breif please do something!!
+    * <summary> please do something!! </summary>
     * @param param1 This is a parameter.
     * @return int Returns an integer.
     */
